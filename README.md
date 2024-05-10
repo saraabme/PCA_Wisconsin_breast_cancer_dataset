@@ -1,4 +1,4 @@
-# PCA
+# PCA on the Wisconsin breast cancer dataset
 
 In this project, the Wisconsin breast cancer dataset is visualized in two dimensions using Principal Component Analysis (PCA). The process involves the following steps:
 
